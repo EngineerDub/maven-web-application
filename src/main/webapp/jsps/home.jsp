@@ -13,7 +13,7 @@
 <h2 align="center"> We are supporting the PayPal Black Friday Project.
 	Landmark Technologies is a software development company. 
 	Class28 will run from April 14, 2022.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+	The shout of the King Jesus is in our midst. You will succeed in JESUS NAME! HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>

@@ -1,0 +1,9 @@
+node{
+    def mavenHome = tool name: '3.8.6'
+    stage('1clonecode'){
+        git "https://github.com/EngineerDub/maven-web-application"
+    }
+    stage('2Test&Build'){
+        sh "${mavenHome}/bin/mvn clean package"
+    }
+}
